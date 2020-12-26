@@ -1,4 +1,4 @@
-<h1 align='center'> Hi 👋, I'm Anthony 👩‍💻 </h1>
+<h1 align='center' style='font-size:42px;color:red;'> Hi 👋, I'm Anthony 👩‍💻 </h1>
 
 <p align='center'>
   Software Developer <b>I love to learn</b> 
