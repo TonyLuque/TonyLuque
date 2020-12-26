@@ -1,9 +1,15 @@
 <h1 align='center'> Hi 👋, I'm Anthony 👩‍💻 </h1>
+<h3>I am a <b>Graphic Designer</b> passionate about creating and learning.</h3>
 
 <p align='center'>
-  Software Developer <b>I love to learn</b> 
+  At the moment I am developing my skills as a Full Stack developer with technologies such as Django and NodeJS in the Backen and HTML, CSS and JavaScript in the Frontend
+   
 </p>
+<b>I love to learn</b> 
 
+
+- 🔭 I am currently working on integrating the frontend with the backend in Django, doing the entire application development process, from the UI design to its deployment.
+- 🌱 I am currently learning about TypeScript and NestJS
 <!--
 **TonyLuque/TonyLuque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
