@@ -1,5 +1,5 @@
 <h1 align='center'> Hi 👋, I'm Anthony 👩‍💻 </h1>
-<h3>I am a <b>Graphic Designer</b> passionate about creating and learning.</h3>
+<h3 align='center'>I am a <b>Graphic Designer</b> passionate about creating and learning.</h3>
 
 <p>
 At the moment I am developing my skills as a Full Stack developer with technologies such as Django and NodeJS in the Backen and HTML, CSS and JavaScript in the Frontend.
@@ -7,6 +7,8 @@ At the moment I am developing my skills as a Full Stack developer with technolog
 <p align='center'><b>I love to learn</b></p>
 <p>
 - 🔭 I am currently working on integrating the frontend with the backend in Django, doing the entire application development process, from the UI design to its deployment.
+</p>
+<p>
 - 🌱 I am currently learning about TypeScript and NestJS
 </p>
 <!--
