@@ -4,7 +4,7 @@
 <p>
 At the moment I am developing my skills as a Full Stack developer with technologies such as Django and NodeJS in the Backen and HTML, CSS and JavaScript in the Frontend.
 </p>
-<p align='center'><h3>I love to learn</h3></p>
+<h3 align='center'>I love to learn</h3>
 <p>
 - 🔭 I am currently working on integrating the frontend with the backend in Django, doing the entire application development process, from the UI design to its deployment.
 </p>
