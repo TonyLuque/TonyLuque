@@ -14,7 +14,7 @@ At the moment I am developing my skills as a Full Stack developer with technolog
 <p>
   you can find me at:
 </p>
-[LinkedIn](https://www.linkedin.com/in/anthonyluque/)
+<a src="https://www.linkedin.com/in/anthonyluque/">LinkedIn</a>
 <!--
 **TonyLuque/TonyLuque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
