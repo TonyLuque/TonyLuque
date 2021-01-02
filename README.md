@@ -14,10 +14,8 @@ At the moment I am developing my skills as a Full Stack developer with technolog
 <p>
   you can find me at:
 </p>
-<a src="https://www.linkedin.com/in/anthonyluque/">LinkedIn</a>
 
-
-[oa](https://www.linkedin.com/in/anthonyluque/)
+[LinkedIn](https://www.linkedin.com/in/anthonyluque/)
 
 
 <!--
