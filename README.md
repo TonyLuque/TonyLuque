@@ -15,11 +15,12 @@ At the moment I am developing my skills as a Full Stack developer with technolog
   you can find me at:
 </p>
 
-[LinkedIn](https://www.linkedin.com/in/anthonyluque/), [Platzi](platzi.com/@tonyl/)
+[LinkedIn](https://www.linkedin.com/in/anthonyluque/) - [Platzi](platzi.com/@tonyl/)
 
 <p>See My last projects:</p>
 
 [Blog-Personal](https://demo-blog-personal.herokuapp.com/)
+
 [Demo-Web-Empresarial](https://demo-webempresarial.herokuapp.com/)
 
 <!--
