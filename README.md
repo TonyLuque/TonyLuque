@@ -2,14 +2,14 @@
 <h3 align='center'>I am a <b>Graphic Designer</b> passionate about creating and learning.</h3>
 
 <p>
-At the moment I am developing my skills as a Full Stack developer with technologies such as Django and NodeJS in the Backen, React in the Frontend and React Native in the movil.
+At the moment I am developing my skills as a Full Stack developer with technologies such as Django, NodeJS and GraphQL in the Backend, React in the Frontend and React Native in the movil.
 </p>
 <h3 align='center'>I love to learn</h3>
 <p>
 - 🔭 I am currently working on integrating the frontend with the backend, doing the entire application development process, from the UI design to its deployment.
 </p>
 <p>
-- 🌱 I am currently learning about TypeScript and NestJS
+- 🌱 I am currently learning about TypeScript, NextJS, React, React-Native, GrahpQL and Apollo
 </p>
 <p>
   you can find me at:
